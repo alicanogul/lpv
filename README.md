@@ -43,3 +43,7 @@ COMMANDS
 * adjustgroupcaps [username] [group name] [feature] [boolean value] : Adjusts the specified user's capability to use the specified feature on the specified group.
 * quit: Quits the program.
 
+WEBSITE
+
+* http://senior.ceng.metu.edu.tr/2016/codefellas2/
+
